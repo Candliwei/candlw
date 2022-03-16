@@ -1,2 +1,1 @@
-# CandLW
-Config files for my GitHub profile.
+https://candliwei.github.io/CandLW/
